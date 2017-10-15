@@ -1,1 +1,6 @@
-hi how r u .
+hi how r u
+this is my second line to add ,
+feeling grte to learn git 
+iam happy 
+my name is hapy and i will hapy.
+thank you.
